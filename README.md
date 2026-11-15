@@ -88,3 +88,19 @@ Resume and candidate matching platform.
 ### AI / ML
 
 `LLMs` · `RAG` · `GenAI` · `Agentic AI`
+---
+
+## 🧠 CURRENTLY LEARNING
+
+`System Design` · `RAG & Agentic AI` · `Real-Time Applications` · `Advanced DSA`
+
+### 🎯 Current Direction
+
+```text
+Backend Engineering
+        ↓
+AI / LLM Applications
+        ↓
+RAG & Agentic Systems
+        ↓
+Production-Ready Applications
