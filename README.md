@@ -1,16 +1,34 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**debanwesha007-crypto/debanwesha007-crypto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# ANWESHA DEB
 
-Here are some ideas to get you started:
+### Software Developer · AI/ML · Full-Stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Building web experiences, AI-powered tools, and systems that actually work.
+
+[ Projects ] · [ Tech Stack ] · [ Currently Learning ]
+
+</div>
+
+---
+
+## ⚡ CURRENT FOCUS
+
+```text
+> whoami
+
+Anwesha Deb
+
+> currently_building
+
+Policy Decoder
+Algorithmic Trading Simulator
+Axlero
+
+> interests
+
+Backend Engineering
+AI / LLM Applications
+RAG
+GenAI
+Real-Time Systems
