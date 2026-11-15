@@ -32,3 +32,36 @@ AI / LLM Applications
 RAG
 GenAI
 Real-Time Systems
+---
+
+## 🚀 WHAT I BUILD
+
+### 🕷️ Policy Decoder
+
+Insurance policies → plain-English explanations + risk flags.
+
+**React · Vite · LLM · PDF Processing**
+
+---
+
+### 📈 Algorithmic Trading Simulator
+
+Market data, pricing services, APIs and simulated real-time updates.
+
+**Python · FastAPI · WebSockets · APIs**
+
+---
+
+### 🎬 Axlero
+
+OTT aggregation platform for discovering and managing streaming content.
+
+**React · FastAPI · PostgreSQL**
+
+---
+
+### 💼 Karyva
+
+Resume and candidate matching platform.
+
+**Django · PostgreSQL · Python**
