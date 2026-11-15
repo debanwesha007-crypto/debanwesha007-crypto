@@ -65,3 +65,26 @@ OTT aggregation platform for discovering and managing streaming content.
 Resume and candidate matching platform.
 
 **Django · PostgreSQL · Python**
+---
+
+## 🛠️ TECH STACK
+
+### Languages
+
+`Python` · `Java` · `JavaScript`
+
+### Frontend
+
+`React` · `Vite` · `HTML` · `CSS`
+
+### Backend
+
+`FastAPI` · `Django` · `REST APIs`
+
+### Database & Tools
+
+`PostgreSQL` · `Git` · `GitHub`
+
+### AI / ML
+
+`LLMs` · `RAG` · `GenAI` · `Agentic AI`
