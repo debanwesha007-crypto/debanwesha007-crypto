@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-profile-design.png" alt="Anwesha Deb — GitHub Profile Design" width="100%">
+<img src="./assets/github-hero.png" alt="Anwesha Deb — Software Developer · AI Systems · Full-Stack" width="100%">
 
 <br>
 
@@ -9,9 +9,3 @@
 <a href="mailto:debanwesha007@gmail.com">Email</a>
 
 </div>
-
-<!--
-Week 1 visual foundation.
-The main profile artwork contains the approved visual composition and current profile information.
-The actual links above remain functional.
--->
