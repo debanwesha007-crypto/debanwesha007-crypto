@@ -9,3 +9,27 @@
 <a href="mailto:debanwesha007@gmail.com">Email</a>
 
 </div>
+
+---
+
+## ⚡ CURRENT FOCUS
+
+```text
+> whoami
+
+Anwesha Deb
+
+> currently_building
+
+Policy Decoder
+MILAN Festival 2027
+NEXUS
+
+> interests
+
+Backend Engineering
+AI / LLM Applications
+RAG
+GenAI
+Agentic AI
+```
