@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/Cyberpunk%20Developer%20Nightscape.png"
+<img src="./assets/Cyberpunk%20Developer%20Nightscape.png" alt="Anwesha Deb — Software Developer · AI Systems · Full-Stack" width="100%">
 
 <br>
 
