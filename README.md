@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="./assets/github-hero.png" alt="Anwesha Deb — Software Developer · AI Systems · Full-Stack" width="100%">
+<img src="./assets/Cyberpunk%20Developer%20Nightscape.png"
 
 <br>
 
